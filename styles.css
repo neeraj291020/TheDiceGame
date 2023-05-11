@@ -1,0 +1,41 @@
+*{
+    background-color: 
+    #146C94;
+}
+.player1{
+    display: inline-block;
+    position: relative;
+    left:190px;
+    top:-100px;
+    bottom: 30px;
+}
+.player2{
+    display:inline-block;
+    position: relative;
+    left:550px;
+    top:-100px;
+    bottom: 30px;
+}
+.src{
+    height: 250px;
+    width: 250px;
+}
+.p1, .p2{
+    font-size: 100px;
+    color:yellowgreen;
+   
+    font-family: 'Zeyada', cursive;
+   
+   
+}
+.main{
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Zeyada', cursive;
+font-size: 80px;
+color:navy;
+position: relative;
+top:-15px;
+}
